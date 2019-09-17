@@ -47,4 +47,8 @@ public class LoginControlValidationTest {
         assertFalse(isValid);
     }
 
+    @Test
+    public void showTest() {
+        assertTrue(true);
+    }
 }
